@@ -6,7 +6,7 @@ public class JavaApplication14 {
     public static void main(String[] args) {
         Hashtable<String, String> table = new Hashtable<>();
         table.put("100", "Spongebob");
-        table.put("321", "Patrick");
+        table.put("321", "Patricks");
         table.put("777", "Sandy");
         
         //table.remove(321);
